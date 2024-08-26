@@ -7,7 +7,7 @@ import Tasks from "../organaize/Tasks";
 import Team from "../organaize/Team";
 function DashboardOrg() {
   return (
-    <div className="flex flex-col gap-1   border p-2 ">
+    <div className="flex flex-col gap-1 w-[1280px]  border p-2 ">
       <Content />
 
       <Card />

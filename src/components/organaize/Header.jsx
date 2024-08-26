@@ -5,8 +5,8 @@ import Box from "@mui/material/Box";
 
 function Header() {
   return (
-    <Box className = "flex flex-row  w-[1520px]  h-[95px] border justify-between  gap-10  items-center  p-4 px-8 ">
-    <Logo/>
+    <Box className = "flex flex-row  w-[1520px]  h-[95px] border justify-around  gap-10  items-center  p-4 px-8 ">
+    
     <SearchBoxMol />
     <AvatarMol/>
     </Box>

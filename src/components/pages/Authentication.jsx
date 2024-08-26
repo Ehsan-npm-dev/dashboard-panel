@@ -35,7 +35,7 @@ function Authentication() {
         </form>
 
         <form action="" className="flex items-center gap-2 p-4 ml-4  h-[200px] text-semibold ">
-          <input type="checkbox" className=" border-t-4   "  />
+          <input type="checkbox" className=" border-t-4 p-4  "  />
           <label className="text-xl">Remember Me</label>
         </form>
         <div className="flex justify-center mt-4">

@@ -1,7 +1,7 @@
 import React from 'react'
 import PicAtom from '../atoms/Pic.Atom'
 import dash from "../../assets/icon/Team/more-vertical.svg"
-import san from "../../assets/img/Frame 576.png"
+
 function ProfileMol() {
   return (
     <div className='flex flex-col justify-center'>

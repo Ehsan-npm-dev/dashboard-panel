@@ -9,7 +9,7 @@ function AvatarMol() {
       <Badge color="error" variant="dot" size="large">
       <NotificationsIcon color="primary" />
     </Badge>
-    <img src={Image2} className="rounded-full" width={40} height={5}/>
+    <img src={Image2} className="rounded-full" width={50} height={5}/>
     </div>
   )
 }
